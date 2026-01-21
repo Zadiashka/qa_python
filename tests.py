@@ -1,4 +1,4 @@
-import pytest
+import pytest #Нужно?
 from main import BooksCollector
 
 
